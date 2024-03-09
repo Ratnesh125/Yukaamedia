@@ -71,7 +71,7 @@ function Body() {
 
                     <ul className='flex flex-col gap-2 w-1/2 sm:w-1/3 '>
                         <li className='flex justify-center'><img src={icon3} alt='icon1' /></li>
-                        <li className='text-2xl font-bold'>Strategic Generation</li>
+                        <li className='sm:text-2xl font-bold'>Strategic Generation</li>
                         <li className='text-xs sm:text-base text-gray-300'>Leveraging analytics to refine lead generation tactics, optimizing efforts for maximum ROI and growth.</li>
                     </ul>
                 </div>
